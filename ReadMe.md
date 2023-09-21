@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎒Sou estudante de cyber Security <br>🔍 Estou a procura de estágio.<br>👩‍🏫 Aprendendo Python 
+🎒 Sou estudante de cyber Security <br>🔍 Estou a procura de estágio.<br>👩‍🏫 Aprendendo Python 
 
 
 # 💻 Tech Stack:
